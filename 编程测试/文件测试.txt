@@ -1,0 +1,4 @@
+start:
+ 3 tiger
+ 4 pig
+ 5 shit
